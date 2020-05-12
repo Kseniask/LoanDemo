@@ -15,7 +15,6 @@ public static void main(String[] args) {
 		String name;
 		int loanNum, term, loanType;
 		double amount;
-		
 		//ask for loan number
 		loanType = Integer.parseInt(JOptionPane.showInputDialog("Is this a (1) Grad loan or (2) Undergrad loan"));
 		
